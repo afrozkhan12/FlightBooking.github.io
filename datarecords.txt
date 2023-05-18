@@ -1,0 +1,36 @@
+	 Asim Airlines 
+	 Ticket 
+  
+  Customer ID5
+Customer Nameasim
+Customer Gendermale
+	Description 
+	Destination	Dubai
+Flight cost :	14000
+	 Asim Airlines 
+	 Ticket 
+  
+  Customer ID 9
+Customer Name khan
+Customer Gender male
+	Description 
+	Destination	Canada 
+Flight cost :	20000
+	______Asim Airlines______
+\nt Ticket 
+  
+Customer ID :789
+Customer Name : alex
+Customer Gender : male
+	Description :
+	Destination	Dubai 
+	Flight cost :	9000
+	______Asim Airlines______
+\nt Ticket 
+  
+Customer ID :0
+Customer Name : 
+Customer Gender : 
+	Description :
+	Destination	
+	Flight cost :	0
